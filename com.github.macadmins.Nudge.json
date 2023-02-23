@@ -15,11 +15,11 @@
   },
   "osVersionRequirements": [
     {
-      "aboutUpdateURL_disabled": "https://support.apple.com/en-us/HT212585#macos1121",
+      "aboutUpdateURL_disabled": "https://support.apple.com/en-us/HT213268",
       "aboutUpdateURLs": [
         {
           "_language": "en",
-          "aboutUpdateURL": "https://support.apple.com/en-us/HT212585#macos1121"
+          "aboutUpdateURL": "https://support.apple.com/en-us/HT213268"
         }
        ],
       "majorUpgradeAppPath": "/Applications/Install macOS Big Sur.app",
