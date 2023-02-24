@@ -8,7 +8,7 @@
     "aggressiveUserFullScreenExperience": true,
     "asynchronousSoftwareUpdate": true,
     "attemptToBlockApplicationLaunches": false,
-    "attemptToFetchMajorUpgrade": true,
+    "attemptToFetchMajorUpgrade": false,
     "blockedApplicationBundleIDs": [],
     "enforceMinorUpdates": true,
     "terminateApplicationsOnLaunch": false
