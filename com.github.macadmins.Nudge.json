@@ -75,7 +75,7 @@
         "oneHourDeferralButtonText": "One Hour",
         "primaryQuitButtonText": "Later",
         "secondaryQuitButtonText": "I understand",
-        "subHeader": "A friendly reminder from your Marist IT team-This update is required but may be defered until a more convenient time."
+        "subHeader": "A friendly reminder from your Marist IT team\n\nThis update is required but may be defered until a more convenient time."
       },
     ]
   }
