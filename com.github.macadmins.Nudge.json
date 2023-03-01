@@ -51,7 +51,7 @@
   "userInterface": {
     "fallbackLanguage": "en",
     "forceFallbackLanguage": false,
-    "forceScreenShotIcon": false,
+    "forceScreenShotIcon": true,
     "iconDarkPath": "/Library/Application Support/Nudge/MaristITSquare.jpg",
     "iconLightPath": "/Library/Application Support/Nudge/MaristITSquare.jpg",
     "screenShotDarkPath": "/somewhere/screenShotDark.png",
