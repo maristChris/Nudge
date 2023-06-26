@@ -23,8 +23,8 @@
         }
        ],
       "majorUpgradeAppPath": "/System/Library/CoreServices/Software Update.app",
-      "requiredInstallationDate": "2023-04-17T12:00:00Z",
-      "requiredMinimumOSVersion": "13.2",
+      "requiredInstallationDate": "2023-07-07T12:00:00Z",
+      "requiredMinimumOSVersion": "13.4.1",
       "targetedOSVersionsRule": "default"
     }
   ],
